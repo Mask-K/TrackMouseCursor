@@ -1,0 +1,7 @@
+# ninja log v5
+2	1785	6924876495026267	CMakeFiles/Homework1.dir/main.cpp.obj	aac4862775147087
+1842	2117	6924876498314914	Homework1.exe	3421bff6973822e0
+9	1389	6924658344521650	CMakeFiles/Homework1.dir/src/Cursor.cpp.obj	1b2fd66762cc6cf9
+5	1804	6924876495207656	CMakeFiles/Homework1.dir/src/CursorMover.cpp.obj	3bb4844f9c6cff30
+10	1842	6924876495597684	CMakeFiles/Homework1.dir/src/Logger.cpp.obj	e3aea7a5b221de18
+7	1649	6924876493669316	CMakeFiles/Homework1.dir/src/Console.cpp.obj	bf63d177077e8946
