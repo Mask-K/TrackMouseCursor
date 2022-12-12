@@ -1,7 +1,16 @@
 # ninja log v5
-2	1785	6924876495026267	CMakeFiles/Homework1.dir/main.cpp.obj	aac4862775147087
-1842	2117	6924876498314914	Homework1.exe	3421bff6973822e0
+4	2401	6925757788565271	CMakeFiles/Homework1.dir/main.cpp.obj	aac4862775147087
+1450	1572	6925759036731305	Homework1.exe	3421bff6973822e0
 9	1389	6924658344521650	CMakeFiles/Homework1.dir/src/Cursor.cpp.obj	1b2fd66762cc6cf9
-5	1804	6924876495207656	CMakeFiles/Homework1.dir/src/CursorMover.cpp.obj	3bb4844f9c6cff30
-10	1842	6924876495597684	CMakeFiles/Homework1.dir/src/Logger.cpp.obj	e3aea7a5b221de18
-7	1649	6924876493669316	CMakeFiles/Homework1.dir/src/Console.cpp.obj	bf63d177077e8946
+3	1450	6925759035586642	CMakeFiles/Homework1.dir/src/CursorMover.cpp.obj	3bb4844f9c6cff30
+21	2280	6925757787353265	CMakeFiles/Homework1.dir/src/Logger.cpp.obj	e3aea7a5b221de18
+8	2231	6925757786864213	CMakeFiles/Homework1.dir/src/Console.cpp.obj	bf63d177077e8946
+16	721	6925807114296019	CMakeFiles/Homework1.dir/src/ExceptionHandler.cpp.obj	a92d4e90ea4b948a
+11	2253	6925807129707871	CMakeFiles/Homework1.dir/src/Console.cpp.obj	bf63d177077e8946
+22	2288	6925807130060481	CMakeFiles/Homework1.dir/src/Logger.cpp.obj	e3aea7a5b221de18
+10	2126	6925808615296652	CMakeFiles/Homework1.dir/src/CursorMover.cpp.obj	3bb4844f9c6cff30
+4	2253	6925808616556663	CMakeFiles/Homework1.dir/main.cpp.obj	aac4862775147087
+3	435	6925809084901436	CMakeFiles/Homework1.dir/src/ExceptionHandler.cpp.obj	a92d4e90ea4b948a
+435	562	6925809086120986	Homework1.exe	968db30346b144d7
+3	1887	6925809903511040	CMakeFiles/Homework1.dir/main.cpp.obj	aac4862775147087
+1888	2030	6925809904861486	Homework1.exe	968db30346b144d7

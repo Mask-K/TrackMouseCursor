@@ -5,7 +5,7 @@
 class Logger : public IObserver{
 public:
     Logger(std::string filename);
-    void HandleEvent(const CursorMover& cr);
+    void HandleEvent(CursorMover& cursor) override;
     ~Logger();
 private:
     std::ofstream log_file;

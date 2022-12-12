@@ -1,5 +1,6 @@
 #pragma once
 #include "CursorMover.h"
+#include "ExceptionHandler.h"
 
 class CursorMover;
 
@@ -8,11 +9,8 @@ const int GREEN = 10;
 
 class IObserver{
 public:
-    virtual void HandleEvent(const CursorMover& cr) = 0;
+    virtual void HandleEvent(CursorMover& cursor) = 0;
     virtual ~IObserver()=default;
-//protected:
-//    static bool state;
 };
 
-//bool IObserver::state = false;
 

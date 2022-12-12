@@ -73,6 +73,12 @@ build CMakeFiles/Homework1.dir/src/Logger.cpp.obj: CXX_COMPILER__Homework1_Debug
   OBJECT_DIR = CMakeFiles\Homework1.dir
   OBJECT_FILE_DIR = CMakeFiles\Homework1.dir\src
 
+build CMakeFiles/Homework1.dir/src/ExceptionHandler.cpp.obj: CXX_COMPILER__Homework1_Debug D$:/Course/Homework1/src/ExceptionHandler.cpp || cmake_object_order_depends_target_Homework1
+  DEP_FILE = CMakeFiles\Homework1.dir\src\ExceptionHandler.cpp.obj.d
+  FLAGS = -g -std=gnu++20
+  OBJECT_DIR = CMakeFiles\Homework1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Homework1.dir\src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Homework1
@@ -81,7 +87,7 @@ build CMakeFiles/Homework1.dir/src/Logger.cpp.obj: CXX_COMPILER__Homework1_Debug
 #############################################
 # Link the executable Homework1.exe
 
-build Homework1.exe: CXX_EXECUTABLE_LINKER__Homework1_Debug CMakeFiles/Homework1.dir/main.cpp.obj CMakeFiles/Homework1.dir/src/CursorMover.cpp.obj CMakeFiles/Homework1.dir/src/Console.cpp.obj CMakeFiles/Homework1.dir/src/Logger.cpp.obj
+build Homework1.exe: CXX_EXECUTABLE_LINKER__Homework1_Debug CMakeFiles/Homework1.dir/main.cpp.obj CMakeFiles/Homework1.dir/src/CursorMover.cpp.obj CMakeFiles/Homework1.dir/src/Console.cpp.obj CMakeFiles/Homework1.dir/src/Logger.cpp.obj CMakeFiles/Homework1.dir/src/ExceptionHandler.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Homework1.dir

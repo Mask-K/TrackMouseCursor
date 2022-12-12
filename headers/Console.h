@@ -3,5 +3,5 @@
 
 class Console : public IObserver{
 public:
-    void HandleEvent(const CursorMover& cr) override;
+    void HandleEvent(CursorMover& cursor) override;
 };
